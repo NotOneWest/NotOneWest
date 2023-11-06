@@ -4,7 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkstj0604)](https://solved.ac/gkstj0604)
 <br/>
-- PROGRAMMERS
+- PROGRAMMERS : Lv.2
 <!--
 **NotOneWest/NotOneWest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
